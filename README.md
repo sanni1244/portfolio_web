@@ -4,7 +4,7 @@ Welcome to my web portfolio repository! This repository contains the code and as
 
 ## Live Demo
 
-You can view my portfolio live [here]([https://www.example.com](https://sanni1244.github.io/portfolio_web/).
+You can view my portfolio live [Portfolio](https://sanni1244.github.io/portfolio_web/).
 
 ## Technologies Used
 
